@@ -20,7 +20,7 @@ When using this addon to permanently hold your data, put the synced folder insid
 
 Also the `/share`, `/confg`, `/backup`, `/addons` and `/ssl` folders are mapped inside. You can use them as persistant storage. Some of those are not included in backups of the hassio configuration by default.
 
-Syncing those folders can also be used to backup the Home Assistant backups, for example. 😉
+Syncing those folders can also be used to backup the Home Assistant backups, for example. 
 
 # Configuration
 

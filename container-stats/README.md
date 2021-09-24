@@ -12,7 +12,7 @@ It contains [Docker Container Stats](https://hub.fastgit.org/virtualzone/docker-
 [![Install on my Home Assistant][install-badge]][install-url]
 [![Donate][donation-badge]][donation-url]
 
-## 🧪 Experimental Addon
+##  Experimental Addon
 
 During long-term usage I noticed that the addon fills up all available memory when getting the data for a week.
 Especially on a Raspberry Pi with Home Assistant this means death in a few minutes.
@@ -32,7 +32,7 @@ But without it we can not retrieve the statistics of the running container and t
 [armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg?style=for-the-badge
 [i386-badge]: https://img.shields.io/badge/i386-yes-green.svg?style=for-the-badge
 [install-url]: https://my.home-assistant.io/redirect/supervisor_addon?addon=243ffc37_container-stats
-[stage-badge]: https://img.shields.io/badge/Addon%20stage-experimental%20🧪-yellow.svg?style=for-the-badge
+[stage-badge]: https://img.shields.io/badge/Addon%20stage-experimental%20-yellow.svg?style=for-the-badge
 
 [install-badge]: https://img.shields.io/badge/Install%20on%20my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
 [donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white

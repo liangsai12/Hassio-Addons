@@ -18,7 +18,7 @@
   "homeassistant": "0.115.0",
   "startup": "system",
   "boot": "auto",
-  "image": "ghcr.io/poeschl/ha-mopidy-{arch}",
+  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-mopidy-{arch}",
   "audio": true,
   "devices": ["/dev/snd"],
   "map": ["share:rw", "media:rw"],

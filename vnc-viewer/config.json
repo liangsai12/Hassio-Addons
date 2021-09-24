@@ -18,7 +18,7 @@
   "startup": "application",
   "boot": "manual",
   "hassio_api": true,
-  "image": "ghcr.io/poeschl/ha-vnc-{arch}",
+  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-vnc-{arch}",
   "options": {
     "vnc_server_host": "localhost"
   },

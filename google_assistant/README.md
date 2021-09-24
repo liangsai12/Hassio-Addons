@@ -10,7 +10,7 @@ A virtual personal assistant developed by Google.
 
 This add-on allows you to access Google Assistant using the microphone and speaker attached to the computer or device running Home Assistant. You can say "Ok Google" followed by your command, and Google Assistant will answer your request.
 
-## ℹ️ Integration your mobile or Google/Nest Home with Home Assistant
+## i Integration your mobile or Google/Nest Home with Home Assistant
 
 If you want to use Google Assistant (for example, from your phone or Google Home device) to interact with your Home Assistant managed devices, then you want the [Google Assistant integration][google-assistant-integration].
 

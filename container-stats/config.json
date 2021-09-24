@@ -3,7 +3,7 @@
   "name": "Docker Container Stats",
   "version": "1.4.0",
   "slug": "container-stats",
-  "description": "🧪 experimental | A web interface for viewing historical and current statistics per docker container",
+  "description": " experimental | A web interface for viewing historical and current statistics per docker container",
   "url": "https://hub.fastgit.org/Poeschl/Hassio-Addons/tree/master/container-stats",
   "arch": [
     "armhf",
@@ -20,7 +20,7 @@
   "stage": "experimental",
   "boot": "auto",
   "docker_api": true,
-  "image": "ghcr.io/poeschl/ha-container-stats-{arch}",
+  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-container-stats-{arch}",
   "ports": {
     "8080/tcp": null
   },

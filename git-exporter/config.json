@@ -14,7 +14,7 @@
   ],
   "startup": "once",
   "boot": "manual",
-  "image": "ghcr.io/poeschl/ha-git-exporter-{arch}",
+  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-git-exporter-{arch}",
   "hassio_api": true,
   "hassio_role": "manager",
   "map": ["config"],
