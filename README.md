@@ -62,3 +62,5 @@ The licence of the repository is inherited by the plugins, if not stated differe
 [licence-badge]: https://img.shields.io/github/license/Poeschl/Hassio-Addons?style=for-the-badge
 [donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white
 [donation-url]: https://www.buymeacoffee.com/Poeschl
+
+# 【Poeschl Home Assistant Supervisor Add-ons】 【Home Assistant Community Add-ons】【 Home Assistant Add-ons】 三合一
