@@ -87,7 +87,7 @@ jobs:
           amd64_labels=$(printf "$labels\nio.hass.arch=amd64")
           i386_labels=$(printf "$labels\nio.hass.arch=i386")
 
-          # allow multiline outputs, see https://github.community/t/set-output-truncates-multiline-strings/16852
+          # allow multiline outputs, see https://hub.fastgit.org/munity/t/set-output-truncates-multiline-strings/16852
           armhf_labels="${armhf_labels//$'\n'/'%0A'}"
           armv7_labels="${armv7_labels//$'\n'/'%0A'}"
           aarch64_labels="${aarch64_labels//$'\n'/'%0A'}"
