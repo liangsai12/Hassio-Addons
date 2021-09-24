@@ -50,14 +50,14 @@ To install those Add-ons add this repository in the Home Assistant Add-on store.
 
 Use the following URL to add this repository:
 
-`https://github.com/Poeschl/Hassio-Addons`
+`https://hub.fastgit.org/Poeschl/Hassio-Addons`
 
 ### Licence
 
 The licence of the repository is inherited by the plugins, if not stated different.
 
 [build-badge]: https://img.shields.io/github/workflow/status/Poeschl/Hassio-Addons/Deploy%20addons?style=for-the-badge
-[build-url]: https://github.com/Poeschl/Hassio-Addons/actions?query=workflow%3A%22Deploy+addons%22
+[build-url]: https://hub.fastgit.org/Poeschl/Hassio-Addons/actions?query=workflow%3A%22Deploy+addons%22
 [commit-badge]: https://img.shields.io/github/commit-activity/m/Poeschl/Hassio-Addons?style=for-the-badge
 [licence-badge]: https://img.shields.io/github/license/Poeschl/Hassio-Addons?style=for-the-badge
 [donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white

@@ -41,7 +41,7 @@ RUN \
             && apt-get install -y --no-install-recommends \
                 build-essential \
                 git \
-            && git clone --depth 1 https://github.com/WiringPi/WiringPi /usr/src/wiringpi \
+            && git clone --depth 1 https://hub.fastgit.org/WiringPi/WiringPi /usr/src/wiringpi \
             && cd /usr/src/wiringpi/wiringPi \
             && make \
             && make install \

@@ -5,7 +5,7 @@ RUN apt-get update && apt-get -y --no-install-recommends install \
     git=1:2.20.1-2+deb10u3
 
 RUN git config --global advice.detachedHead false && \
-    git clone https://github.com/novnc/noVNC.git -b v1.2.0 /noVNC
+    git clone https://hub.fastgit.org/novnc/noVNC.git -b v1.2.0 /noVNC
 
 FROM $BUILD_FROM AS WEBSOCKIFY
 
@@ -20,7 +20,7 @@ RUN pip3 install --no-cache-dir Cython==0.29.21
 
 # hadolint ignore=DL3003
 RUN git config --global advice.detachedHead false && \
-    git clone https://github.com/novnc/websockify -b v0.9.0 /websockify && \
+    git clone https://hub.fastgit.org/novnc/websockify -b v0.9.0 /websockify && \
     cd /websockify && python3 setup.py install
 
 FROM $BUILD_FROM AS RUNNING

@@ -11,7 +11,7 @@ The generated certificate can be used within others addons. By default the path 
 
 [discord]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io
-[issue]: https://github.com/home-assistant/hassio-addons/issues
+[issue]: https://hub.fastgit.org/home-assistant/hassio-addons/issues
 [certbot]: https://certbot.eff.org
 [reddit]: https://reddit.com/r/homeassistant
 

@@ -38,7 +38,7 @@ When coming from a previous version validate your settings, since the addon got 
 
 ## 1.2.0 - 2019-12-06
 
-* ➕ Use Youtube-Mopidy integration from [@natumbri](https://github.com/natumbri/mopidy-youtube)
+* ➕ Use Youtube-Mopidy integration from [@natumbri](https://hub.fastgit.org/natumbri/mopidy-youtube)
 * 🔼 Updated Mopidy to `2.3.1-1`
 * 🔼 Updated youtube-dl to `2019.11.28`
 * 🔼 Update certifi to same version as youtube-dl

@@ -49,28 +49,28 @@ RUN \
         libunwind-dev \
     \
     && git clone --depth 1 -b \
-        ${QTWEBSOCKETS_VERSION} https://github.com/qt/qtwebsockets /usr/src/qtwebsockets \
+        ${QTWEBSOCKETS_VERSION} https://hub.fastgit.org/qt/qtwebsockets /usr/src/qtwebsockets \
     && cd /usr/src/qtwebsockets \
     && /usr/lib/qt5/bin/qmake QT_BUILD_PARTS="libs tools" \
     && make -j $(( $(nproc) + 1 )) \
     && make install \
     \
     && git clone --depth 1 -b \
-        ${QTMQTT_VERSION} https://github.com/qt/qtmqtt /usr/src/qtmqtt \
+        ${QTMQTT_VERSION} https://hub.fastgit.org/qt/qtmqtt /usr/src/qtmqtt \
     && cd /usr/src/qtmqtt \
     && /usr/lib/qt5/bin/qmake CONFIG+=release QT_BUILD_PARTS="libs tools" \
     && make -j $(( $(nproc) + 1 )) \
     && make install \
     \
     && git clone \
-        https://github.com/OpenZWave/open-zwave /usr/src/ozw \
+        https://hub.fastgit.org/OpenZWave/open-zwave /usr/src/ozw \
     && cd /usr/src/ozw \
     && git checkout ${OZW_VERSION} \
     && make -j $(( $(nproc) + 1 )) \
     && make install \
     \
     && git clone \
-        https://github.com/OpenZWave/qt-openzwave /usr/src/qtozw \
+        https://hub.fastgit.org/OpenZWave/qt-openzwave /usr/src/qtozw \
     && cd /usr/src/qtozw \
     && git checkout ${QTOZW_VERSION} \
     && /usr/lib/qt5/bin/qmake -r CONFIG+=release \
@@ -78,7 +78,7 @@ RUN \
     && make install \
     \
     && git clone \
-        https://github.com/OpenZWave/ozw-admin.git /usr/src/ozw-admin \
+        https://hub.fastgit.org/OpenZWave/ozw-admin.git /usr/src/ozw-admin \
     && cd /usr/src/ozw-admin \
     && git checkout ${QTOZWADMIN_VERSION} \
     && /usr/lib/qt5/bin/qmake -r CONFIG+=release \
@@ -86,14 +86,14 @@ RUN \
     && make install \
     \
     && git clone --depth 1 -b \
-        v${NOVNC_VERSION} https://github.com/novnc/noVNC \
+        v${NOVNC_VERSION} https://hub.fastgit.org/novnc/noVNC \
     && cd noVNC \
     && mkdir -p /usr/share/novnc \
     && rm -rf .git utils \
     && cp -rf ./* /usr/share/novnc/ \
     \
     && git clone --depth 1 -b \
-        v${WEBSOCKIFY_VERSION} https://github.com/novnc/websockify \
+        v${WEBSOCKIFY_VERSION} https://hub.fastgit.org/novnc/websockify \
     && cd websockify \
     && python3 setup.py build \
     && python3 setup.py install --prefix=/usr \

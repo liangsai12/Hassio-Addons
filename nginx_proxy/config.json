@@ -3,7 +3,7 @@
   "version": "3.0.2",
   "slug": "nginx_proxy",
   "description": "An SSL/TLS proxy",
-  "url": "https://github.com/home-assistant/hassio-addons/tree/master/nginx_proxy",
+  "url": "https://hub.fastgit.org/home-assistant/hassio-addons/tree/master/nginx_proxy",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "ports": {
     "80/tcp": null,

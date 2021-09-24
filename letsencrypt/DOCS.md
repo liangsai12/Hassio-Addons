@@ -169,7 +169,7 @@ transip_api_key: ''
   The credential file can be created and downloaded when creating the service user within the Google cloud.
   You can find additional information regarding the required permissions in the "credentials" section here:
 
-  <https://github.com/certbot/certbot/blob/master/certbot-dns-google/certbot_dns_google/__init__.py>
+  <https://hub.fastgit.org/certbot/certbot/blob/master/certbot-dns-google/certbot_dns_google/__init__.py>
 
 </details>
 
@@ -476,6 +476,6 @@ In case you've found a bug, please [open an issue on our GitHub][issue].
 
 [discord]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io
-[issue]: https://github.com/home-assistant/hassio-addons/issues
+[issue]: https://hub.fastgit.org/home-assistant/hassio-addons/issues
 [certbot]: https://certbot.eff.org
 [reddit]: https://reddit.com/r/homeassistant

@@ -1,6 +1,6 @@
 # ICantBelieveItsNotValetudo (Home Assistant Supervisor Addon)
 
-This is the adaption of [ICantBelieveItsNotValetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) as a Supervisor addon.
+This is the adaption of [ICantBelieveItsNotValetudo](https://hub.fastgit.org/Hypfer/ICantBelieveItsNotValetudo) as a Supervisor addon.
 
 ![Addon Stage][stage-badge]
 ![Supports aarch64 Architecture][aarch64-badge]
@@ -14,7 +14,7 @@ This is the adaption of [ICantBelieveItsNotValetudo](https://github.com/Hypfer/I
 
 ## Config
 
-The configuration keys are identical to the [configuration of ICantBelieveItsNotValetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo/blob/master/README.md).
+The configuration keys are identical to the [configuration of ICantBelieveItsNotValetudo](https://hub.fastgit.org/Hypfer/ICantBelieveItsNotValetudo/blob/master/README.md).
 Please get the meaning for them from there.
 It's normal that the structure of the addon differs from the official config file, this is nessesary because of the Supervisor Addon config structure.
 

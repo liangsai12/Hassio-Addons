@@ -8,7 +8,7 @@ SYS_TOKEN=$(jq --raw-output '.token' $CONFIG_PATH)
 SYS_CERTFILE=$(jq --raw-output '.lets_encrypt.certfile' $CONFIG_PATH)
 SYS_KEYFILE=$(jq --raw-output '.lets_encrypt.keyfile' $CONFIG_PATH)
 
-# https://github.com/lukas2511/dehydrated/blob/master/docs/examples/hook.sh
+# https://hub.fastgit.org/lukas2511/dehydrated/blob/master/docs/examples/hook.sh
 
 deploy_challenge() {
     local DOMAIN="${1}" TOKEN_FILENAME="${2}" TOKEN_VALUE="${3}" ALIAS

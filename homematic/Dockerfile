@@ -21,7 +21,7 @@ ARG BUILD_ARCH
 WORKDIR /usr/src
 RUN \
     set -x \
-    && curl -SL https://github.com/eq-3/occu/archive/${OCCU_VERSION}.tar.gz | tar xzf - \
+    && curl -SL https://hub.fastgit.org/eq-3/occu/archive/${OCCU_VERSION}.tar.gz | tar xzf - \
     && cd occu-${OCCU_VERSION} \
     && mkdir -p \
         /boot \

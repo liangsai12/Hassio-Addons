@@ -14,9 +14,9 @@ Mopidy with plugins inside Home Assistant Supervisor.
 
 It contains following extensions:
 
-* [Mopidy-Iris](https://github.com/jaedb/iris)
-* [Mopidy-MPD](https://github.com/mopidy/mopidy-mpd)
-* [Mopidy-RadioNet](https://github.com/plintx/mopidy-radionet)
+* [Mopidy-Iris](https://hub.fastgit.org/jaedb/iris)
+* [Mopidy-MPD](https://hub.fastgit.org/mopidy/mopidy-mpd)
+* [Mopidy-RadioNet](https://hub.fastgit.org/plintx/mopidy-radionet)
 
 
 [aarch64-badge]: https://img.shields.io/badge/aarch64-no-red.svg?style=for-the-badge

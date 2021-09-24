@@ -1,6 +1,6 @@
 # Docker Container Stats (Home Assistant Addon)
 
-It contains [Docker Container Stats](https://github.com/virtualzone/docker-container-stats) to monitor all running containers / addons.
+It contains [Docker Container Stats](https://hub.fastgit.org/virtualzone/docker-container-stats) to monitor all running containers / addons.
 
 ![Addon Stage][stage-badge]
 ![Supports aarch64 Architecture][aarch64-badge]

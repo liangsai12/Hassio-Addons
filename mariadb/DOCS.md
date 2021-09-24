@@ -105,6 +105,6 @@ In case you've found a bug, please [open an issue on our GitHub][issue].
 [discord]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[issue]: https://github.com/home-assistant/hassio-addons/issues
+[issue]: https://hub.fastgit.org/home-assistant/hassio-addons/issues
 [reddit]: https://reddit.com/r/homeassistant
-[repository]: https://github.com/hassio-addons/repository
+[repository]: https://hub.fastgit.org/hassio-addons/repository

@@ -161,7 +161,7 @@ In case you've found a bug, please [open an issue on our GitHub][issue].
 [conf]: http://developer.telldus.com/wiki/TellStick_conf
 [discord]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io
-[issue]: https://github.com/home-assistant/hassio-addons/issues
+[issue]: https://hub.fastgit.org/home-assistant/hassio-addons/issues
 [protocol-list]: http://developer.telldus.com/wiki/TellStick_conf
 [reddit]: https://reddit.com/r/homeassistant
-[repository]: https://github.com/hassio-addons/repository
+[repository]: https://hub.fastgit.org/hassio-addons/repository

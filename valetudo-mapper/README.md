@@ -1,6 +1,6 @@
 # Valetudo RE Mapper (Home Assistant Supervisor Addon)
 
-This is the adaption of [valetudo-mapper](https://github.com/rand256/valetudo-mapper) as a Supervisor addon.
+This is the adaption of [valetudo-mapper](https://hub.fastgit.org/rand256/valetudo-mapper) as a Supervisor addon.
 
 ![Addon Stage][stage-badge]
 ![Supports aarch64 Architecture][aarch64-badge]

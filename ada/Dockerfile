@@ -19,7 +19,7 @@ RUN apt-get update \
         build-essential \
     \
     && git clone --depth 1 -b ${ADA_VERSION} \
-        "https://github.com/home-assistant/ada" . \
+        "https://hub.fastgit.org/home-assistant/ada" . \
     && rm -rf .git \
     && pip3 install --no-cache-dir -U setuptools wheel \
     && pip3 install --no-cache-dir -r requirements.txt \

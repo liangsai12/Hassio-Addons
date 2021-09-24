@@ -3,7 +3,7 @@
   "version": "9.2.0",
   "slug": "ssh",
   "description": "Allow logging in remotely to Home Assistant using SSH",
-  "url": "https://github.com/home-assistant/hassio-addons/tree/master/ssh",
+  "url": "https://hub.fastgit.org/home-assistant/hassio-addons/tree/master/ssh",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "init": false,
   "advanced": true,

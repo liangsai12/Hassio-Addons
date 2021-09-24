@@ -101,14 +101,14 @@ You have several options to get them answered:
 In case you've found a bug, please [open an issue on our GitHub][issue].
 
 [discord]: https://discord.gg/c5DvZ4e
-[documentation]: https://github.com/home-assistant/hassio-addons/blob/master/google_assistant/DOCS.md
+[documentation]: https://hub.fastgit.org/home-assistant/hassio-addons/blob/master/google_assistant/DOCS.md
 [forum]: https://community.home-assistant.io
 [google-actions-console]: https://console.actions.google.com/
 [google-assistant-api]: https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview
 [google-oauth-client]: https://console.developers.google.com/apis/credentials/oauthclient
 [google-oauth-concent]: https://console.developers.google.com/apis/credentials/consent
 [google-platform-project]: https://console.cloud.google.com/project
-[issue]: https://github.com/home-assistant/hassio-addons/issues
+[issue]: https://hub.fastgit.org/home-assistant/hassio-addons/issues
 [reddit]: https://reddit.com/r/homeassistant
-[repository]: https://github.com/hassio-addons/repository
-[samba-addon]: https://github.com/home-assistant/hassio-addons/tree/master/samba
+[repository]: https://hub.fastgit.org/hassio-addons/repository
+[samba-addon]: https://hub.fastgit.org/home-assistant/hassio-addons/tree/master/samba

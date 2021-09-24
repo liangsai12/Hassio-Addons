@@ -3,7 +3,7 @@
   "version": "2.0.1",
   "slug": "almond",
   "description": "The open-source, privacy-preserving voice assistant",
-  "url": "https://github.com/home-assistant/hassio-addons/blob/master/almond",
+  "url": "https://hub.fastgit.org/home-assistant/hassio-addons/blob/master/almond",
   "arch": ["armv7", "aarch64", "amd64"],
   "init": false,
   "discovery": ["almond"],

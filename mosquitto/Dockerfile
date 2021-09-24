@@ -16,7 +16,7 @@ RUN apk add --no-cache \
         openssl-dev \
     \
     && git clone --depth 1 -b "${MOSQUITTO_AUTH_VERSION}" \
-        https://github.com/pvizeli/mosquitto-auth-plug \
+        https://hub.fastgit.org/pvizeli/mosquitto-auth-plug \
     \
     && cd mosquitto-auth-plug \
     && cp config.mk.in config.mk \

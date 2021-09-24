@@ -11,11 +11,11 @@ labels:
       issue:
         body: |
           Please make sure you have the right addon for your software.
-          The addon you mentioning is the companion for [ICantBelieveItsNotValetudo from Hypfer](https://github.com/Hypfer/ICantBelieveItsNotValetudo).
+          The addon you mentioning is the companion for [ICantBelieveItsNotValetudo from Hypfer](https://hub.fastgit.org/Hypfer/ICantBelieveItsNotValetudo).
   
   - name: valetudo-mapper
     labeled:
       issue:
         body: |
           Please make sure you have the right addon for your software.
-          The addon you mentioning is the companion for [Valetudo RE from rand256](https://github.com/rand256/valetudo).
+          The addon you mentioning is the companion for [Valetudo RE from rand256](https://hub.fastgit.org/rand256/valetudo).

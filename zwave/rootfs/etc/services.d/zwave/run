@@ -25,7 +25,7 @@ bashio::net.wait_for 1883
 
 # Ensure local MQTT server has the right OZW status
 # Workaround for an incorrect retained OZW status in MQTT
-# https://github.com/home-assistant/hassio-addons/issues/1462
+#https://hub.fastgit.org/home-assistant/hassio-addons/issues/1462
 mqtt::ensure_ozw_offline_status \
     127.0.0.1 1883 ozw "${MQTT_PASSWORD}" "${OZW_INSTANCE}"
 

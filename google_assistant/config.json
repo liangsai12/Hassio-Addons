@@ -3,7 +3,7 @@
   "version": "2.5.0",
   "slug": "google_assistant",
   "description": "A virtual personal assistant developed by Google",
-  "url": "https://github.com/home-assistant/hassio-addons/tree/master/google_assistant",
+  "url": "https://hub.fastgit.org/home-assistant/hassio-addons/tree/master/google_assistant",
   "arch": ["armhf", "armv7", "amd64"],
   "init": false,
   "advanced": true,

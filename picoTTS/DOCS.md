@@ -1,6 +1,6 @@
 ## Homeassistant Integration
 
-For easy integration I also published a [custom component](https://github.com/Poeschl/Remote-PicoTTS).
+For easy integration I also published a [custom component](https://hub.fastgit.org/Poeschl/Remote-PicoTTS).
 Its available on the HACS for easy integration.
 
 ## Requests

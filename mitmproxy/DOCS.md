@@ -1,7 +1,7 @@
 # Web UI
 
 To access the web ui of mitmproxy, visit `http://<host-ip>:8081` (or the port you configured).
-Currently there is no other method. Will change when [#3234](https://github.com/mitmproxy/mitmproxy/issues/3234) is fixed completly.
+Currently there is no other method. Will change when [#3234](https://hub.fastgit.org/mitmproxy/mitmproxy/issues/3234) is fixed completly.
 
 
 # Configuration

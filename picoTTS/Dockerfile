@@ -14,7 +14,7 @@ RUN apk update && \
 ENV COMMIT_SHA '2f86050dc5da9ab68fc61510b594d8e6975c4d2d'
 # hadolint ignore=DL3003
 RUN git config --global advice.detachedHead false && \
-    git clone https://github.com/naggety/picotts.git -b master /build && \
+    git clone https://hub.fastgit.org/naggety/picotts.git -b master /build && \
     cd build && git checkout ${COMMIT_SHA} &&\
     cd pico && ./autogen.sh && ./configure && make install
 

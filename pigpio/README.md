@@ -1,6 +1,6 @@
 # pigpio
 
-Wraps the C control lib [pigpio](https://github.com/joan2937/pigpio) in a Hass.io addon to allow an easy installation.
+Wraps the C control lib [pigpio](https://hub.fastgit.org/joan2937/pigpio) in a Hass.io addon to allow an easy installation.
 
 ![Addon Stage][stage-badge]
 ![Supports aarch64 Architecture][aarch64-badge]

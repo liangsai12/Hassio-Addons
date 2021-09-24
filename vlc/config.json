@@ -4,7 +4,7 @@
   "slug": "vlc",
   "description": "Turn your device into a Media Player with VLC",
   "arch": ["amd64", "i386", "armv7", "aarch64"],
-  "url": "https://github.com/home-assistant/hassio-addons/tree/master/vlc",
+  "url": "https://hub.fastgit.org/home-assistant/hassio-addons/tree/master/vlc",
   "startup": "services",
   "init": false,
   "stage": "experimental",

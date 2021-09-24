@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "slug": "juice-shop",
   "description": "The most trustworthy online shop out there.",
-  "url": "https://github.com/Poeschl/Hassio-Addons/tree/master/juice-shop",
+  "url": "https://hub.fastgit.org/Poeschl/Hassio-Addons/tree/master/juice-shop",
   "arch": [
     "armhf",
     "armv7",

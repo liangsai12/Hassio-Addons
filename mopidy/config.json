@@ -4,7 +4,7 @@
   "slug": "mopidy",
   "panel_icon": "mdi:music-circle",
   "description": "Mopidy Music Server",
-  "url": "https://github.com/Poeschl/Hassio-Addons/tree/master/mopidy",
+  "url": "https://hub.fastgit.org/Poeschl/Hassio-Addons/tree/master/mopidy",
   "webui": "http://[HOST]:[PORT:6680]/iris",
   "ingress": false,
   "ingress_port": 6680,

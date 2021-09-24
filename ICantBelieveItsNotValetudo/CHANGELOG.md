@@ -64,7 +64,7 @@
 * 🔼 Updated ICantBelieveItsNotValetudo to latest commit `74b6c33`
 * 🔼 Updated npm to `14.15.5-r0`
 * 🔨 Unspecify version of pkgconf
-* ➖ Removed webserver since [no image is served anymore](https://github.com/Hypfer/ICantBelieveItsNotValetudo/commit/54cc0d96a6c03ee4dc92b86e533c0cd3999a7068#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5L14)
+* ➖ Removed webserver since [no image is served anymore](https://hub.fastgit.org/Hypfer/ICantBelieveItsNotValetudo/commit/54cc0d96a6c03ee4dc92b86e533c0cd3999a7068#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5L14)
 * ➖ Removed ingress since not needed anymore, since nothing to serve
 
 ### 📌 Note 📌
@@ -112,7 +112,7 @@
 
 ### ⚠️ Breaking Change ⚠️
 
-* Colors are only supported as hex values. See [Colors](https://github.com/Hypfer/ICantBelieveItsNotValetudo#new-map-colors)
+* Colors are only supported as hex values. See [Colors](https://hub.fastgit.org/Hypfer/ICantBelieveItsNotValetudo#new-map-colors)
 * Colors are not optional anymore, they will be set to the defaults if not existing.
 
 ## 2.2.2 - 2020-10-22

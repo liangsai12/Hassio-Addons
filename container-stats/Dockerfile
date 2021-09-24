@@ -7,7 +7,7 @@ RUN apk --update add --no-cache \
 
 ENV COMMIT_SHA '586ebebf16195bfab7ffd2b3dbc4344077e72a05'
 # hadolint ignore=DL3003
-RUN git clone https://github.com/virtualzone/docker-container-stats.git -b master /container-stats && \
+RUN git clone https://hub.fastgit.org/virtualzone/docker-container-stats.git -b master /container-stats && \
     cd /container-stats && git checkout $COMMIT_SHA
 
 

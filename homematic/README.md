@@ -25,6 +25,6 @@ to interface with your devices.
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[occu]: https://github.com/jens-maus/occu/
+[occu]: https://hub.fastgit.org/jens-maus/occu/
 [hm-mod-rpi-pcb]: https://www.elv.ch/homematic-funkmodul-fuer-raspberry-pi-bausatz.html
 [hmip-rufsb]: https://www.elv.ch/elv-homematic-ip-rf-usb-stick-hmip-rfusb-fuer-alternative-steuerungsplattformen-arr-bausatz.html
