@@ -3,7 +3,7 @@
     "version": "18",
     "slug": "local_vlc",
     "description": "Play multimedia locally using VLC player",
-    "url": "https://github.com/rodripf/hassio-local-vlc",    
+    "url": "https://hub.fastgit.org/rodripf/hassio-local-vlc",    
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "startup": "application",
     "boot": "auto",
