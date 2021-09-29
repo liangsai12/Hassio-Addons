@@ -17,5 +17,5 @@
   "map": [
     "config:rw"
   ],
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/sqlite-web/{arch}"
+  "image": "ghcr.io/hassio-addons/sqlite-web/{arch}"
 }

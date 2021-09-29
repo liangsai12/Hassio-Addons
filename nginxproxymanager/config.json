@@ -35,5 +35,5 @@
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "reset_database": "bool?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/nginxproxymanager/{arch}"
+  "image": "ghcr.io/hassio-addons/nginxproxymanager/{arch}"
 }

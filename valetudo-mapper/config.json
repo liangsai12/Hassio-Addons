@@ -11,7 +11,7 @@
     "amd64",
     "i386"
   ],
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-valetudo-mapper-{arch}",
+  "image": "ghcr.io/poeschl/ha-valetudo-mapper-{arch}",
   "ports": {
     "3000/tcp": null
   },

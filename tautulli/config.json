@@ -39,5 +39,5 @@
     "keyfile": "str",
     "leave_front_door_open": "bool?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/tautulli/{arch}"
+  "image": "ghcr.io/hassio-addons/tautulli/{arch}"
 }

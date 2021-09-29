@@ -1,6 +1,6 @@
 ## 1.1.0 - 2021-04-02
 
-*  Use gcr.mirrors.ustc.edu.cn/home-assistant for base images
+*  Use ghcr.io/home-assistant for base images
 *  Update openssl to `1.1.1k-r0`
 *  Update openssl-dev to `1.1.1k-r0`
 *  Update haproxy to `2.1.12-r0`

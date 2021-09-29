@@ -16,7 +16,7 @@
   "startup": "application",
   "boot": "manual",
   "init":false,
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-rsync-local-{arch}",
+  "image": "ghcr.io/poeschl/ha-rsync-local-{arch}",
   "ports": {},
   "map": [
     "share:rw",

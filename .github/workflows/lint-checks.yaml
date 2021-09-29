@@ -7,7 +7,7 @@ on:
 jobs:
   hadolint:
     runs-on: ubuntu-latest
-    container: gcr.mirrors.ustc.edu.cn/hadolint/hadolint:latest-alpine
+    container: ghcr.io/hadolint/hadolint:latest-alpine
     steps:
       - name:  Checkout
         uses: actions/checkout@v2

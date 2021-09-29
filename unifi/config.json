@@ -45,5 +45,5 @@
     "memory_max": "int?",
     "memory_init": "int?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/unifi/{arch}"
+  "image": "ghcr.io/hassio-addons/unifi/{arch}"
 }

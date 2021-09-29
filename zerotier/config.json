@@ -41,5 +41,5 @@
     "api_auth_token": "str",
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/zerotier/{arch}"
+  "image": "ghcr.io/hassio-addons/zerotier/{arch}"
 }

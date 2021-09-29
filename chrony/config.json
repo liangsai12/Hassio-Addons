@@ -41,5 +41,5 @@
     ],
     "mode": "list(pool|server)"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/chrony/{arch}"
+  "image": "ghcr.io/hassio-addons/chrony/{arch}"
 }

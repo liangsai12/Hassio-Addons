@@ -89,5 +89,5 @@
     ],
     "i_like_to_be_pwned": "bool?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/ftp/{arch}"
+  "image": "ghcr.io/hassio-addons/ftp/{arch}"
 }

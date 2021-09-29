@@ -38,5 +38,5 @@
   "ports_description": {
     "3000/tcp": "Z-Wave JS communication"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/zwavejs2mqtt/{arch}"
+  "image": "ghcr.io/hassio-addons/zwavejs2mqtt/{arch}"
 }

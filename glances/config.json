@@ -78,5 +78,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/glances/{arch}"
+  "image": "ghcr.io/hassio-addons/glances/{arch}"
 }

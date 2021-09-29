@@ -54,5 +54,5 @@
     ],
     "leave_front_door_open": "bool?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/influxdb/{arch}"
+  "image": "ghcr.io/hassio-addons/influxdb/{arch}"
 }

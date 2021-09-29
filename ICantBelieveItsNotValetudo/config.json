@@ -11,7 +11,7 @@
     "amd64",
     "i386"
   ],
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-icantbelieveitsnotvaletudo-{arch}",
+  "image": "ghcr.io/poeschl/ha-icantbelieveitsnotvaletudo-{arch}",
   "ports": {
     "8080/tcp": null
   },

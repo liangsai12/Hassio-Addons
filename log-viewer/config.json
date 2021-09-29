@@ -40,5 +40,5 @@
     "keyfile": "str",
     "leave_front_door_open": "bool?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/log-viewer/{arch}"
+  "image": "ghcr.io/hassio-addons/log-viewer/{arch}"
 }

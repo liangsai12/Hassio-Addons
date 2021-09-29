@@ -43,5 +43,5 @@
       "str"
     ]
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/appdaemon/{arch}"
+  "image": "ghcr.io/hassio-addons/appdaemon/{arch}"
 }

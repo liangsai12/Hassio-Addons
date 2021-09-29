@@ -46,5 +46,5 @@
       "str"
     ]
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/thelounge/{arch}"
+  "image": "ghcr.io/hassio-addons/thelounge/{arch}"
 }

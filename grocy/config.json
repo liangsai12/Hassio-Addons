@@ -81,5 +81,5 @@
     "certfile": "str",
     "keyfile": "str"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/grocy/{arch}"
+  "image": "ghcr.io/hassio-addons/grocy/{arch}"
 }

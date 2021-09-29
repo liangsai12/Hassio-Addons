@@ -31,5 +31,5 @@
     "latency_http": "int",
     "drift": "bool"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/airsonos/{arch}"
+  "image": "ghcr.io/hassio-addons/airsonos/{arch}"
 }

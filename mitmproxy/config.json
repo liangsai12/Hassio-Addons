@@ -17,7 +17,7 @@
   "startup": "application",
   "boot": "auto",
   "hassio_api": true,
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-mitmproxy-{arch}",
+  "image": "ghcr.io/poeschl/ha-mitmproxy-{arch}",
   "map": ["ssl", "share:rw"],
   "ports": {
     "8081/tcp": 8081,

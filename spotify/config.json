@@ -23,5 +23,5 @@
     "username": "str?",
     "password": "password?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/spotify/{arch}"
+  "image": "ghcr.io/hassio-addons/spotify/{arch}"
 }

@@ -14,7 +14,7 @@
   ],
   "startup": "application",
   "boot": "auto",
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-picotts-{arch}",
+  "image": "ghcr.io/poeschl/ha-picotts-{arch}",
   "ports": {
     "59126/tcp": "59126"
   },

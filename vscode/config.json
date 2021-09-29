@@ -44,5 +44,5 @@
       "str"
     ]
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/vscode/{arch}"
+  "image": "ghcr.io/hassio-addons/vscode/{arch}"
 }

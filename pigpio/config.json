@@ -13,7 +13,7 @@
   "gpio": true,
   "privileged": ["SYS_RAWIO"],
   "devices":["/dev/mem", "/dev/vcio"],
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-pigpio-{arch}",
+  "image": "ghcr.io/poeschl/ha-pigpio-{arch}",
   "ports": {
     "8888/tcp": 8888
   },

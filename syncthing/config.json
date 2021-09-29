@@ -13,7 +13,7 @@
     "i386"
   ],
   "homeassistant": "0.115.0",
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-syncthing-{arch}",
+  "image": "ghcr.io/poeschl/ha-syncthing-{arch}",
   "ports": {
     "8384/tcp": null,
     "22000/tcp": 22000,

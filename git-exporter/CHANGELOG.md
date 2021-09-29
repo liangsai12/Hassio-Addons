@@ -11,7 +11,7 @@
 
 ## 1.9.0 - 2021-04-02
 
-*  Use gcr.mirrors.ustc.edu.cn/home-assistant for base images
+*  Use ghcr.io/home-assistant for base images
 
 
 ## 1.8.0 - 2021-03-30

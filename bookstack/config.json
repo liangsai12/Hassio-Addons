@@ -50,5 +50,5 @@
       }
     ]
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/bookstack/{arch}"
+  "image": "ghcr.io/hassio-addons/bookstack/{arch}"
 }

@@ -22,5 +22,5 @@
   "schema": {
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/phpmyadmin/{arch}"
+  "image": "ghcr.io/hassio-addons/phpmyadmin/{arch}"
 }

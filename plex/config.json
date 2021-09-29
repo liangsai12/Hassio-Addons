@@ -51,5 +51,5 @@
     "claim_code": "str",
     "webtools": "bool"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/plex/{arch}"
+  "image": "ghcr.io/hassio-addons/plex/{arch}"
 }

@@ -1,6 +1,6 @@
 ## 1.4.0 - 2021-04-02
 
-*  Use gcr.mirrors.ustc.edu.cn/home-assistant for base images
+*  Use ghcr.io/home-assistant for base images
 *  Update docker to `12.20.1-r1`
 
 

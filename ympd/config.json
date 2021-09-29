@@ -16,7 +16,7 @@
   ],
   "startup": "application",
   "boot": "auto",
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-ympd-{arch}",
+  "image": "ghcr.io/poeschl/ha-ympd-{arch}",
   "ports": {
     "6680/tcp": null
   },

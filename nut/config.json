@@ -83,5 +83,5 @@
     "i_like_to_be_pwned": "bool?",
     "leave_front_door_open": "bool?"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/nut/{arch}"
+  "image": "ghcr.io/hassio-addons/nut/{arch}"
 }

@@ -91,5 +91,5 @@
       }
     ]
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/wireguard/{arch}"
+  "image": "ghcr.io/hassio-addons/wireguard/{arch}"
 }

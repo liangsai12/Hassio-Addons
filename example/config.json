@@ -20,5 +20,5 @@
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)",
     "seconds_between_quotes": "int(1,120)"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/example/{arch}"
+  "image": "ghcr.io/hassio-addons/example/{arch}"
 }

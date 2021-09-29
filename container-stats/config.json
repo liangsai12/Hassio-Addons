@@ -20,7 +20,7 @@
   "stage": "experimental",
   "boot": "auto",
   "docker_api": true,
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-container-stats-{arch}",
+  "image": "ghcr.io/poeschl/ha-container-stats-{arch}",
   "ports": {
     "8080/tcp": null
   },

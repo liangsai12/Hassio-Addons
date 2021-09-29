@@ -36,5 +36,5 @@
     "certfile": "str",
     "keyfile": "str"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/home-panel/{arch}"
+  "image": "ghcr.io/hassio-addons/home-panel/{arch}"
 }

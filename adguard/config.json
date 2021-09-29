@@ -51,5 +51,5 @@
   "snapshot_exclude": [
     "*/adguard/data/querylog.json"
   ],
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/adguard/{arch}"
+  "image": "ghcr.io/hassio-addons/adguard/{arch}"
 }

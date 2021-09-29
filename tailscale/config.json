@@ -25,5 +25,5 @@
     "/dev/net/tun"
   ],
   "host_network": true,
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/tailscale/{arch}"
+  "image": "ghcr.io/hassio-addons/tailscale/{arch}"
 }

@@ -19,5 +19,5 @@
     "7396/tcp": "Web interface",
     "36330/tcp": "Remote command interface"
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/foldingathome/{arch}"
+  "image": "ghcr.io/hassio-addons/foldingathome/{arch}"
 }

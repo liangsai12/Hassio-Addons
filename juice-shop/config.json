@@ -10,7 +10,7 @@
     "aarch64",
     "amd64"
   ],
-  "image": "gcr.mirrors.ustc.edu.cn/poeschl/ha-juice-shop-{arch}",
+  "image": "ghcr.io/poeschl/ha-juice-shop-{arch}",
   "ports": {
     "3000/tcp": null
   },

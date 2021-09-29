@@ -1,6 +1,6 @@
 ## 1.3.0 - 2021-04-02
 
-*  Use gcr.mirrors.ustc.edu.cn/home-assistant for base images
+*  Use ghcr.io/home-assistant for base images
 *  Update openssh-client to `8.4_p1-r3`
 
 

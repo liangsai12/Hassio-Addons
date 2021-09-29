@@ -49,5 +49,5 @@
       }
     ]
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/grafana/{arch}"
+  "image": "ghcr.io/hassio-addons/grafana/{arch}"
 }

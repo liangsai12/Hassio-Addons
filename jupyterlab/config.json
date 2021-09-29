@@ -30,5 +30,5 @@
       "str"
     ]
   },
-  "image": "gcr.mirrors.ustc.edu.cn/hassio-addons/jupyterlab/{arch}"
+  "image": "ghcr.io/hassio-addons/jupyterlab/{arch}"
 }

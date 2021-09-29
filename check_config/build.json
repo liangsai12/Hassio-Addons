@@ -1,9 +1,9 @@
 {
   "build_from": {
-    "aarch64": "gcr.mirrors.ustc.edu.cn/home-assistant/aarch64-homeassistant-base:2021.07.0",
-    "amd64": "gcr.mirrors.ustc.edu.cn/home-assistant/amd64-homeassistant-base:2021.07.0",
-    "armhf": "gcr.mirrors.ustc.edu.cn/home-assistant/armhf-homeassistant-base:2021.07.0",
-    "armv7": "gcr.mirrors.ustc.edu.cn/home-assistant/armv7-homeassistant-base:2021.07.0",
-    "i386": "gcr.mirrors.ustc.edu.cn/home-assistant/i386-homeassistant-base:2021.07.0"
+    "aarch64": "ghcr.io/home-assistant/aarch64-homeassistant-base:2021.07.0",
+    "amd64": "ghcr.io/home-assistant/amd64-homeassistant-base:2021.07.0",
+    "armhf": "ghcr.io/home-assistant/armhf-homeassistant-base:2021.07.0",
+    "armv7": "ghcr.io/home-assistant/armv7-homeassistant-base:2021.07.0",
+    "i386": "ghcr.io/home-assistant/i386-homeassistant-base:2021.07.0"
   }
 }
