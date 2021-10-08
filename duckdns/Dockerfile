@@ -5,7 +5,7 @@ FROM $BUILD_FROM
 ARG DEHYDRATED_VERSION
 RUN apk add --no-cache openssl \
   && curl -s -o /usr/bin/dehydrated \
-    "https://raw.githubusercontent.com/lukas2511/dehydrated/v${DEHYDRATED_VERSION}/dehydrated" \
+    "https://raw.fastgit.org/lukas2511/dehydrated/v${DEHYDRATED_VERSION}/dehydrated" \
   && chmod a+x /usr/bin/dehydrated
 
 # Copy data

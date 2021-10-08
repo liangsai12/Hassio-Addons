@@ -1,0 +1,41 @@
+{
+  "name": "Voice Assistant",
+  "version": "2.0.1",
+  "slug": "voice_assistant",
+  "description": "a voice assistant",
+  "arch": ["armhf", "armv7", "aarch64", "amd64"],
+  "audio": true,
+  "homeassistant_api": true,
+  "startup": "application",
+  "boot": "auto",
+  "map": ["share:rw","config:rw","media:rw"],
+  "image": "zhujisheng/{arch}-addon-voice_assistant",
+  "options": {
+    "voice_assistant": [{
+      "microphone": "local_default",
+      "wake_word_model": "/marvin.pb",
+      "threshold": 0.4,
+      "show_match_level_realtime": false,
+      "on_wake": "process_ha_intent.on_wake",
+      "on_command_stage1": "process_ha_intent.on_command",
+      "on_command_stage2": "process_ha_intent.on_react",
+      "media_player": "media_player.mpd",
+      "tts_service": "tts.baidu_fanyi_tts_say"
+	  "ha_base_url": "http://192.168.1.123:8123"
+    }]
+  },
+  "schema": {
+    "voice_assistant": [{
+      "microphone": "str",
+      "wake_word_model": "str",
+      "threshold": "float(0,1)",
+      "show_match_level_realtime": "bool",
+      "on_wake": "str",
+      "on_command_stage1": "str",
+      "on_command_stage2": "str",
+      "media_player": "str",
+      "tts_service": "str"
+	  "ha_base_url": "str"
+    }]
+  }
+}
